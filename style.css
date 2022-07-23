@@ -1,0 +1,8 @@
+.indexing{
+    z-index: 1;
+}
+@media (max-width:576px) {
+    .reverse{
+        flex-direction: column-reverse;
+    }
+}
